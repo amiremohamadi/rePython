@@ -1,5 +1,5 @@
 # rePython
-A minimal programming language with "Python" syntax and just for fun :)
+A minimal programming language with "Python-Like" syntax
 > Note: this is under heavy development!
 
 ## Dependencies
